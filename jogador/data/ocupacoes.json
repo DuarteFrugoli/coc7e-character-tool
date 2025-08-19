@@ -1,0 +1,882 @@
+[
+    {
+        "nome": "Acrobata",
+        "descricao": "Os acrobatas podem ser atletas amadores competindo em campeonatos — possivelmente até as Olimpíadas — ou profissionais empregados no setor de entretenimento (por exemplo, circos, carnavais, apresentações teatrais).",
+        "nivel_credito": [9, 20],
+        "formula_pontos_pericias": "EDU*2+DES*2",
+        "pericias": "Arremessar, Encontrar, Escalar, Esquivar, Natação, Saltar, quaisquer outras duas perícias como especialidades pessoais ou da era.",
+        "contatos_sugeridos": "Círculos de atletas amadores, jornalistas de esportes, circos, carnavais."
+    },
+    {
+        "nome": "Agente Federal",
+        "descricao": "Há uma grande variedade deagências e agentes federais de segurança. Alguns são uniformizados, como os U.S. Marshals, enquanto que outros, como o Departamento Federal de Investigação (Federal Bureau of Investigation, o FBI), andam à paisana e operam de forma semelhante a detetives.",
+        "nivel_credito": [20, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "Armas de Fogo, Direito, Dirigir Automóveis, Encontrar, Furtividade, Lutar (Briga), Persuasão, qualquer outra perícia como especialidade pessoal ou da era.",
+        "contatos_sugeridos": "Agências federais, policiais, crime organizado."
+    },
+    {
+        "nome": "Agente Funerário",
+        "descricao": "Os agentes funerários, também conhecidos como diretores funerários, administram o negócio dos ritos funerários. Este trabalho inclui o enterro ou cremação dos mortos. Com os enterros, o agente funerário realizará o embalsamamento, além de vestir, tratar e embelezar a aparência do falecido.\n\tEssa ocupação é licenciada pelos estados. Eles possuem suas próprias agências ou trabalham para alguém que possua.",
+        "nivel_credito": [20, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "Ciência (Biologia) e (Química), Contabilidade, Dirigir Automóveis, História, uma perícia interpessoal (Charme, Intimidação, Lábia, ou Persuasão), Ocultismo, Psicologia.",
+        "contatos_sugeridos": "Poucos."
+    },
+    {
+        "nome": "Agricultor",
+        "descricao": "Um trabalhador rural que pode possuir a terra em que trabalha, ou que é empregado para fazer o mesmo. Rigorosa e exigente, a vida do agricultor é adequada para quem gosta de trabalho manual e atividades ao ar livre.\n\tA década de 1920 foi a primeira década em que a população urbana dos EUA superou a população rural. Agricultores independentes se veem espremidos entre a concorrência de fazendas controladas por corporações e as flutuações dos mercados de commodities — uma situação que ainda comum na contemporaneidade.",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "Arte/Ofício (Agricultura), Consertos Mecânicos, Dirigir Automóveis (ou Carroça), uma perícia interpessoal (Charme, Intimidação, Lábia, ou Persuasão), Mundo Natural, Operar Maquinário Pesado, Rastrear, qualquer outra perícia como especialidade pessoal ou da era.",
+        "contatos_sugeridos": "Banco local, políticos locais, departamento agrícola estadual."
+    },
+    {
+        "nome": "Alienista",
+        "descricao": "Na década de 1920, “alienista” é o termo usado para aqueles que tratam de doenças mentais (os primeiros psiquiatras). A psicanálise é pouco conhecida nos EUA e sua base na vida sexual e questões escatológicas é considerada indecente. A psiquiatria, uma educação médica padrão apoiada pelo behaviorismo, é mais comum. Há uma guerra intelectual entre alienistas, psiquiatras e neurologistas.",
+        "nivel_credito": [10, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "Ciência (Biologia) e (Química), Direito, Escutar, Medicina, Outra Língua, Psicanálise, Psicologia.",
+        "contatos_sugeridos": "Outras pessoas no campo das doenças mentais, médicos e, ocasionalmente, detetives."
+    },
+    {
+        "nome": "Alpinista",
+        "descricao": "O alpinismo como esporte tornou-se popular no século XIX. A maioria dos alpinistas são esportistas casuais; apenas alguns têm a reputação necessária para atrair o financiamento e o patrocínio necessários para grandes empreitadas.\n\tNa década de 1920, todos os principais picos americanos e alpinos já tinham sido conquistados. Após longas negociações com os tibetanos, os alpinistas finalmente tiveram acesso aos picos mais altos do Himalaia. Tentativas regulares de se escalar o Monte Everest, o último pico não conquistado do mundo, eram rotineiramente cobertas por rádio e jornais. Expedições em 1921, 1922 e 1924 não conseguiram chegar ao topo e resultaram na morte de treze pessoas.\n\tNos dias modernos, o montanhismo, pode ser esporte, recreação ou profissão. Como profissão, pode incluir instrutores de escalada, guias, atletas ou serviços de resgate. ",
+        "nivel_credito": [30, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "Escalar, Escutar, Navegação, Outra Língua, Primeiros Socorros, Rastrear, Saltar, Sobrevivência (Alpes ou conforme apropriado).",
+        "contatos_sugeridos": "Outros escaladores, ambientalistas, patronos, patrocinadores, resgate local ou força policial, guardas florestais, clubes esportivos."
+    },
+    {
+        "nome": "Andarilho",
+        "descricao": "",
+        "nivel_credito": [0, 5],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Animador",
+        "descricao": "",
+        "nivel_credito": [9, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Antiquário",
+        "descricao": "",
+        "nivel_credito": [30, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Apostador",
+        "descricao": "",
+        "nivel_credito": [8, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Arqueólogo",
+        "descricao": "",
+        "nivel_credito": [10, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Arquiteto",
+        "descricao": "",
+        "nivel_credito": [30, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Arrombador (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Artesão",
+        "descricao": "",
+        "nivel_credito": [10, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Artista",
+        "descricao": "",
+        "nivel_credito": [9, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Assaltante de Bancos (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Assassino (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Assistente de Sanatório",
+        "descricao": "",
+        "nivel_credito": [8, 20],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Atleta",
+        "descricao": "",
+        "nivel_credito": [9, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Ator",
+        "descricao": "",
+        "nivel_credito": [9, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Atravessador (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Auxiliar de Laboratório",
+        "descricao": "",
+        "nivel_credito": [10, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Aviador (Piloto)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Bandido de Rua (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Bartender",
+        "descricao": "",
+        "nivel_credito": [8, 25],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Bibliotecário",
+        "descricao": "",
+        "nivel_credito": [9, 35],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Bombeiro",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Bootlegger (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Caçador de Grandes Presas",
+        "descricao": "",
+        "nivel_credito": [20, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Caçador de Recompensas",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Capanga (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Cavalheiro/Dama",
+        "descricao": "",
+        "nivel_credito": [40, 90],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Chofer (Motorista)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Cientista",
+        "descricao": "",
+        "nivel_credito": [9, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Cirurgião Forense",
+        "descricao": "",
+        "nivel_credito": [40, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Clero, Membro do",
+        "descricao": "",
+        "nivel_credito": [9, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Contador",
+        "descricao": "",
+        "nivel_credito": [30, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Contrabandista (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Correspondente Estrangeiro",
+        "descricao": "",
+        "nivel_credito": [10, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Cowboy/Cowgirl",
+        "descricao": "",
+        "nivel_credito": [9, 20],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Criminoso",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Curador de Museu",
+        "descricao": "",
+        "nivel_credito": [0, 5],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Dama do Crime (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Designer",
+        "descricao": "",
+        "nivel_credito": [10, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Desprogramador",
+        "descricao": "",
+        "nivel_credito": [10, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Detetive de Agência",
+        "descricao": "",
+        "nivel_credito": [20, 45],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Detetive Particular",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Diletante",
+        "descricao": "",
+        "nivel_credito": [50, 99],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Dublê",
+        "descricao": "",
+        "nivel_credito": [10, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Editor",
+        "descricao": "",
+        "nivel_credito": [10, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Enfermeiro",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Engenheiro",
+        "descricao": "",
+        "nivel_credito": [30, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Escritor",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Espião",
+        "descricao": "",
+        "nivel_credito": [20, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Estudante/Estagiário",
+        "descricao": "",
+        "nivel_credito": [5, 10],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Explorador",
+        "descricao": "",
+        "nivel_credito": [55, 80],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Falsificador (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Fanático",
+        "descricao": "",
+        "nivel_credito": [0, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Farmacêutico",
+        "descricao": "",
+        "nivel_credito": [35, 75],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Fotógrafo",
+        "descricao": "A fotografia como forma de arte existe há muito tempo, com a maioria dos fotógrafos trabalhando como autônomos, para uma empresa de publicidade ou empregados em um estúdio de retratos tirando fotos de famílias. Outros são empregados nas indústrias dos jornais, mídia e cinema. A elite dos fotógrafos é encontrada nos mundos da arte, do jornalismo e da conservação da vida selvagem. Em cada uma dessas arenas, um fotógrafo pode conquistar fama, reconhecimento e dinheiro.",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Fotojornalista",
+        "descricao": "Os fotojornalistas são basicamente repórteres que usam câmeras, mas também devem escrever textos para acompanhar uma imagem. Na década de 1920, surgiram os noticiários; pesadas câmeras de filme 35 mm eram transportadas ao redor do mundo em busca de notícias interessantes, eventos esportivos e concursos de beleza. Uma equipe de noticiário geralmente conta com três pessoas: uma delas é um repórter que escreve o texto, enquanto que os outros dois lidam com a câmera, luzes, etc. As narrações são feitas em um estúdio, com base no material escrito.",
+        "nivel_credito": [10, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Gangster",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Garçonete/Garçom",
+        "descricao": "Atende clientes dentro de um hotel, bar ou outro estabelecimento para beber ou comer. Tradicionalmente mal paga, garçons e garçonetes recebem gorjeta dos clientes, buscando assim prestar um bom serviço e tentando estabelecer uma conexão.\n\tTecnicamente ilegal durante a Proibição (já que bebidas alcoólicas eram ilegais), existiam muitas oportunidades de trabalho nos speakeasies ilegais de propriedade da máfia. ",
+        "nivel_credito": [9, 20],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Garimpeiro",
+        "descricao": "",
+        "nivel_credito": [0, 10],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Golpista (Criminoso)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Hacker (Programador)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Jornalista",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Juiz",
+        "descricao": "",
+        "nivel_credito": [50, 80],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Jurista",
+        "descricao": "",
+        "nivel_credito": [30, 80],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Lenhador (Operário)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Líder de Culto",
+        "descricao": "",
+        "nivel_credito": [30, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Livreiro",
+        "descricao": "",
+        "nivel_credito": [20, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Lojista",
+        "descricao": "",
+        "nivel_credito": [20, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Marinheiro",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Mecânico",
+        "descricao": "",
+        "nivel_credito": [9, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Médico",
+        "descricao": "",
+        "nivel_credito": [30, 80],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Mergulhador",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Mineiro (Operário)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Missionário",
+        "descricao": "",
+        "nivel_credito": [0, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Mordomo/Valete/Aia",
+        "descricao": "",
+        "nivel_credito": [9, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Motorista",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Músico",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Negociador de Antiguidades",
+        "descricao": "",
+        "nivel_credito": [30, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Ocultista",
+        "descricao": "",
+        "nivel_credito": [9, 65],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Oficial Militar",
+        "descricao": "",
+        "nivel_credito": [20, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Oficial/Investigador de Polícia",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Operário",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Parapsicólogo",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Pesquisador",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Piloto (Aviador)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Político Eleito",
+        "descricao": "",
+        "nivel_credito": [50, 90],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Professor",
+        "descricao": "",
+        "nivel_credito": [20, 70],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Programador/Técnico/Hacker",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Prostituta",
+        "descricao": "",
+        "nivel_credito": [5, 50],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Psicólogo/Psicanalista",
+        "descricao": "",
+        "nivel_credito": [10, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Psiquiatra",
+        "descricao": "",
+        "nivel_credito": [30, 80],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Pugilista/Lutador",
+        "descricao": "",
+        "nivel_credito": [9, 60],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Repórter (Jornalista)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Secretário",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Sindicalista",
+        "descricao": "",
+        "nivel_credito": [5, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Sobrevivencialista",
+        "descricao": "",
+        "nivel_credito": [5, 20],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Soldado/Fuzileiro Naval",
+        "descricao": "",
+        "nivel_credito": [9, 30],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Taxista (Motorista)",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Técnico de Higienização Hospitalar",
+        "descricao": "",
+        "nivel_credito": [6, 15],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Trabalhador de Colarinho Branco",
+        "descricao": "",
+        "nivel_credito": [0, 0],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Tratador de Zoológico",
+        "descricao": "",
+        "nivel_credito": [9, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Treinador de Animais",
+        "descricao": "",
+        "nivel_credito": [10, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Tribal",
+        "descricao": "",
+        "nivel_credito": [0, 15],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Vagabundo",
+        "descricao": "",
+        "nivel_credito": [0, 5],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    },
+    {
+        "nome": "Vendedor",
+        "descricao": "",
+        "nivel_credito": [9, 40],
+        "formula_pontos_pericias": "EDU*4",
+        "pericias": "",
+        "contatos_sugeridos": ""
+    }
+]

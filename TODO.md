@@ -1,0 +1,1 @@
+- internacionalizar adicionando o inglês.

@@ -1,0 +1,32 @@
+# Build e arquivos temporários
+/build/
+/jogador/build/
+/jogador/CMakeFiles/
+/jogador/*.exe
+/jogador/*.obj
+/jogador/*.o
+/jogador/*.pdb
+/jogador/*.ilk
+/jogador/*.log
+/jogador/*.user
+/jogador/*.vcxproj*
+/jogador/*.sln
+/jogador/src/*.obj
+/jogador/src/*.o
+
+# Dados gerados em runtime
+/jogador/runtime/*
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos do CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp

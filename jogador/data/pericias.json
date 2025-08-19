@@ -1,0 +1,432 @@
+[
+    {
+        "nome": "Antropologia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Arcos",
+        "descricao": "",
+        "valor_inicial": 15
+    },
+    {
+        "nome": "Armas de Fogo",
+        "descricao": "",
+        "valor_inicial": 0
+    },
+    {
+        "nome": "Armas Pesadas",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Arqueologia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Arremessar",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Arte e Ofício",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Artilharia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Astronomia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Atuação",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Avaliação",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Belas Artes",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Biologia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Botânica",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Briga",
+        "descricao": "",
+        "valor_inicial": 25
+    },
+    {
+        "nome": "Cavalgar",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Charme",
+        "descricao": "",
+        "valor_inicial": 15
+    },
+    {
+        "nome": "Chaveiro",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Chicotes",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Ciência",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Ciência Forense",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Conhecimento",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Consertos Elétricos",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Consertos Mecânicos",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Contabilidade",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Criptografia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Demolições",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Direito",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Dirigir Automóveis",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Disfarce",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Eletrônica",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Encontrar",
+        "descricao": "",
+        "valor_inicial": 25
+    },
+    {
+        "nome": "Engenharia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Escalar",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Espingardas",
+        "descricao": "",
+        "valor_inicial": 25
+    },
+    {
+        "nome": "Escutar",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Espadas",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Esquivar",
+        "descricao": "",
+        "valor_inicial": 0
+    },
+    {
+        "nome": "Falsificação",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Farmácia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Física",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Fotografia",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Furtividade",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Garrote",
+        "descricao": "",
+        "valor_inicial": 15
+    },
+    {
+        "nome": "Geologia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Hipnose",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "História",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Intimidação",
+        "descricao": "",
+        "valor_inicial": 15
+    },
+    {
+        "nome": "Lábia",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Lança-Chamas",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Lanças",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Leitura Labial",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Língua (Nativa)",
+        "descricao": "",
+        "valor_inicial": 0
+    },
+    {
+        "nome": "Língua (Outra)",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Lutar",
+        "descricao": "",
+        "valor_inicial": 0
+    },
+    {
+        "nome": "Machados",
+        "descricao": "",
+        "valor_inicial": 15
+    },
+    {
+        "nome": "Manguais",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Matemática",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Medicina",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Mergulho",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Meteorologia",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Metralhadoras",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Motosserras",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Mundo Natural",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Mythos de Cthulhu",
+        "descricao": "",
+        "valor_inicial": 0
+    },
+    {
+        "nome": "Natação",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Navegação",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Nível de Crédito",
+        "descricao": "",
+        "valor_inicial": 0
+    },
+    {
+        "nome": "Ocultismo",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Operar Maquinário Pesado",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Pilotar",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Pistolas",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Prestidigitação",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Primeiros Socorros",
+        "descricao": "",
+        "valor_inicial": 30
+    },
+    {
+        "nome": "Psicanálise",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Psicologia",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Química",
+        "descricao": "",
+        "valor_inicial": 1
+    },
+    {
+        "nome": "Rastrear",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Rifles",
+        "descricao": "",
+        "valor_inicial": 25
+    },
+    {
+        "nome": "Saltar",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Sobrevivência",
+        "descricao": "",
+        "valor_inicial": 10
+    },
+    {
+        "nome": "Submetralhadoras",
+        "descricao": "",
+        "valor_inicial": 15
+    },
+    {
+        "nome": "Treinar Animais",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Usar Bibliotecas",
+        "descricao": "",
+        "valor_inicial": 20
+    },
+    {
+        "nome": "Usar Computadores",
+        "descricao": "",
+        "valor_inicial": 5
+    },
+    {
+        "nome": "Zoologia",
+        "descricao": "",
+        "valor_inicial": 1
+    }
+]
